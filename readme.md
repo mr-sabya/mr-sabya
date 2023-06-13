@@ -7,10 +7,10 @@ I love to work with User Experience & User Interface design. Because I love to d
 
 ## Expertise
 
-# Frontend
+### Frontend
 HTML, CSS, JavaScript, Ajax, Bootstrap, Tailwind CSS, React
 
-# Backend
+### Backend
 PHP(Laravel), Python(Django), C#(ASP.NET Core, ASP.NET MVC, Blazor, Blazor Native) 
 
 ## my CV
