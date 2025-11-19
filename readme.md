@@ -1,17 +1,41 @@
-Hello,
-I am sabya Roy. 
+# 👋 Hello, I am Sabya Roy
 
-I am Full Stack Web Develoer. I am expert in HTML, CSS, JavaScript, PHP, Laravel (as a backend framework) and React (as a Frontend Framework).
+I am a **Full Stack Web Developer** with 7+ years of experience building web and mobile applications. I specialize in combining **clean UI/UX design** with robust backend functionality to create user-friendly, scalable solutions.
 
-I love to work with User Experience & User Interface design. Because I love to develop website which is most user-friendly for the users. I always try my best to make good user interface with the best user experience and develop in the easiest way to use. I have been working as a Web Developer for 5 years.
+---
 
-## Expertise
+## 💡 About Me
 
-### Frontend
-HTML, CSS, JavaScript, Ajax, Bootstrap, Tailwind CSS, React
+- Passionate about both **design and programming**  
+- Experienced in developing **desktop apps, Android apps, and web applications**  
+- Skilled in **Laravel, Livewire, React, WordPress, PHP, and REST APIs**  
+- Worked as a **Graphics Designer** at Rabi Printing Press  
+- Completed **Udemy courses** and **Industrial Training in Networking**  
 
-### Backend
-PHP(Laravel), Python(Django), C#(ASP.NET Core, ASP.NET MVC, Blazor, Blazor Native) 
+I focus on creating applications that are **efficient, reliable, and easy to use**.
 
-## my CV
-https://mr-sabya.github.io/mr-sabya/
+---
+
+## 🛠️ My Expertise
+
+### **Frontend**
+- HTML, CSS, JavaScript  
+- Bootstrap, Tailwind CSS  
+- React, Remix  
+
+### **Backend**
+- PHP (Laravel + Livewire)
+- Python (Django)  
+- C# (ASP.NET Core, MVC, Blazor, Blazor Native)  
+
+---
+
+## 🌐 My CV & Portfolio
+
+🔗 [View My CV](https://mr-sabya.github.io/mr-sabya/)
+
+---
+
+## 🚀 My Goals
+
+To contribute effectively in a professional environment, apply my skills in **web and software development**, and continuously improve by **learning and implementing modern technologies**.
