@@ -40,8 +40,9 @@ I focus on creating applications that are **efficient, reliable, and easy to use
 
 To contribute effectively in a professional environment, apply my skills in **web and software development**, and continuously improve by **learning and implementing modern technologies**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-sabya&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sabya&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-sabya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-sabya&theme=tokyonight" />
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-sabya&theme=react-dark)
