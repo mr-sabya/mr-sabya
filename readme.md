@@ -62,4 +62,7 @@ To contribute effectively in a professional environment, apply my skills in **we
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-sabya&theme=tokyonight" />
 </p>
 
-![GitHub Activity Graph](./assets/image/github-activity-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-sabya/mr-sabya/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mr-sabya/mr-sabya/output/github-snake.svg" />
+</picture>
