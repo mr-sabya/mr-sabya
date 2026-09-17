@@ -1,0 +1,29 @@
+name: GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: Ashutosh00710/github-readme-activity-graph@v1
+        with:
+          github_username: mr-sabya
+          theme: react-dark
+          output: assets/image/github-activity-graph.svg
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub activity graph"
+          file_pattern: assets/image/github-activity-graph.svg
