@@ -205,3 +205,86 @@ img {
     align-items: center;
     justify-content: center;
 }
+
+/* print */
+@media print {
+    @page {
+        size: A4;
+        margin: 9mm 12mm;
+    }
+
+    * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    body {
+        font-size: 14px;
+    }
+
+    .container {
+        width: 100%;
+        padding: 0;
+    }
+
+    .name-section {
+        margin-bottom: 14px;
+    }
+
+    .profile__conatiner {
+        gap: 35px;
+        margin-top: 8px;
+    }
+
+    .margin-30 {
+        margin-bottom: 11px;
+    }
+
+    p {
+        line-height: 1.4;
+    }
+
+    h3 {
+        margin-bottom: 5px;
+    }
+
+    .item {
+        margin-bottom: 8px;
+        gap: 8px;
+        break-inside: avoid;
+    }
+
+    .profile p {
+        margin-top: 3px;
+    }
+
+    .details .info {
+        margin-bottom: 4px;
+    }
+
+    .details .info .text {
+        margin-left: 50px;
+    }
+
+    .skill .progress {
+        margin-bottom: 10px;
+    }
+
+    .courses .course {
+        margin-bottom: 5px;
+    }
+
+    .interests .interest {
+        padding: 3px 7px;
+        margin-right: 5px;
+        margin-bottom: 4px;
+    }
+
+    .education, .details, .language, .courses, .interests, .social {
+        break-inside: avoid;
+    }
+
+    .experience h3, .client-project h3 {
+        break-after: avoid;
+    }
+}
