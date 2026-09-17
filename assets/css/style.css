@@ -287,4 +287,28 @@ img {
     .experience h3, .client-project h3 {
         break-after: avoid;
     }
+
+    .client-project .text a[href]::after {
+        content: " – " attr(href);
+        color: #444;
+        font-size: 10px;
+    }
+
+    .social .links {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .social a {
+        width: auto;
+        height: auto;
+        border-radius: 4px;
+        padding: 3px 8px;
+        gap: 6px;
+    }
+
+    .social a[href]::after {
+        content: attr(href);
+        font-size: 10px;
+    }
 }
